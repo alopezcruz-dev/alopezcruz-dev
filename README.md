@@ -10,7 +10,7 @@
 ---
 
 ### 💻 Perfil Profesional
-[cite_start]Ingeniero en Sistemas Computacionales titulado con enfoque en desarrollo backend y sólida trayectoria en soporte técnico de alta escala[cite: 3, 6, 10]. [cite_start]Especialista en la resolución de problemas complejos y optimización de infraestructura tecnológica en instituciones de alto nivel[cite: 8].
+Ingeniero en Sistemas Computacionales titulado con enfoque en desarrollo backend y sólida trayectoria en soporte técnico de alta escala. Especialista en la resolución de problemas complejos y optimización de infraestructura tecnológica en instituciones de alto nivel.
 
 ---
 
@@ -34,21 +34,21 @@
 ### 📂 Trayectoria Profesional
 | Institución | Rol | Periodo |
 | :--- | :--- | :--- |
-| **Tecnológico de Monterrey** | Especialista en Soporte TI | [cite_start]2025 - Actual [cite: 28] |
-| **Universidad Anáhuac México** | Administrador de Atención a Usuarios | [cite_start]2023 - 2024 [cite: 28] |
-| **Universidad Anáhuac México** | Ingeniero en Soporte | [cite_start]2022 - 2023 [cite: 28] |
+| **Tecnológico de Monterrey** | Especialista en Soporte TI | 2025 - Actual  |
+| **Universidad Anáhuac México** | Administrador de Atención a Usuarios | 2023 - 2024 |
+| **Universidad Anáhuac México** | Ingeniero en Soporte | 2022 - 2023  |
 
 ---
 
 ### ⚡ Habilidades Clave
-- [cite_start]**Backend:** Desarrollo de APIs REST y gestión de bases de datos SQL (MySQL/Oracle)[cite: 7, 16, 17].
-- [cite_start]**Infraestructura:** Administración de políticas mediante Active Directory y gestión de redes LAN/Wi-Fi[cite: 24, 28].
-- [cite_start]**Web:** Mantenimiento y optimización de sitios institucionales con PHP y Drupal[cite: 20, 28].
+- **Backend:** Desarrollo de APIs REST y gestión de bases de datos SQL (MySQL/Oracle).
+- **Infraestructura:** Administración de políticas mediante Active Directory y gestión de redes LAN/Wi-Fi.
+- **Web:** Mantenimiento y optimización de sitios institucionales con PHP y Drupal.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alopezcruz-dev&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
