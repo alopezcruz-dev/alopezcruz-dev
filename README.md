@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=ALEJANDRO%20LOPEZ%20Cruz&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=35&bg=001529" alt="Nombre Animado" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=ALEJANDRO%20LOPEZ%20CRUZz&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=35&bg=001529" alt="Nombre Animado" />
 </p>
 
 <p align="center">
