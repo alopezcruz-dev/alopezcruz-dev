@@ -1,58 +1,69 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=200&section=header&text=Alejandro%20Lopez%20Cruz&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Alejandro%20Lopez%20Cruz&fontSize=70&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Engineer-007bff?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Systems%20Engineer-28a745?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/BACKEND%20ARCHITECT-007bff?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/SYSTEMS%20ENGINEER-28a745?style=for-the-badge&logo=disciplines&logoColor=white" />
+  <img src="https://img.shields.io/badge/IT%20SPECIALIST-ffc107?style=for-the-badge&logo=paloaltoredes&logoColor=black" />
 </p>
 
 ---
 
-### 💻 Perfil Profesional
-Ingeniero en Sistemas Computacionales titulado con enfoque en desarrollo backend y sólida trayectoria en soporte técnico de alta escala. Especialista en la resolución de problemas complejos y optimización de infraestructura tecnológica en instituciones de alto nivel.
+### 🚀 Perfil Profesional
+Ingeniero en Sistemas Computacionales con una sólida base en el desarrollo de arquitecturas backend y gestión de infraestructura crítica. Mi enfoque principal es la creación de soluciones escalables, la optimización de procesos y la resolución de incidencias en entornos institucionales de alto rendimiento.
 
 ---
 
-### 📊 Developer Stats (Real-time)
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=vision-friendly-dark&border_radius=10&langs_count=6" />
-</p>
-
----
-
-### 🛠️ Stack Tecnológico Pro
+### 🛠️ Ecosistema Tecnológico
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,oracle,php,js,html,css,git,linux,windows,network" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,oracle,php,js,html,css,git,windows,maven,postman,vscode,eclipse" />
   </a>
 </p>
 
 ---
 
-### 📂 Trayectoria Profesional
-| Institución | Rol | Periodo |
-| :--- | :--- | :--- |
-| **Tecnológico de Monterrey** | Especialista en Soporte TI | 2025 - Actual  |
-| **Universidad Anáhuac México** | Administrador de Atención a Usuarios | 2023 - 2024 |
-| **Universidad Anáhuac México** | Ingeniero en Soporte | 2022 - 2023  |
+### 📂 Trayectoria Institucional
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏢 Tecnológico de Monterrey</h4>
+      <p><b>Especialista en Soporte TI</b> (2025 - Actual)</p>
+      <ul>
+        <li>Administración de identidades con Active Directory.</li>
+        <li>Optimización de infraestructura de red y conectividad.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏢 Universidad Anáhuac México</h4>
+      <p><b>Administrador de Atención / Ing. Soporte</b> (2022 - 2024)</p>
+      <ul>
+        <li>Desarrollo y mantenimiento web (PHP/Drupal).</li>
+        <li>Gestión de servicios tecnológicos académicos.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⚡ Habilidades Clave
-- **Backend:** Desarrollo de APIs REST y gestión de bases de datos SQL (MySQL/Oracle).
-- **Infraestructura:** Administración de políticas mediante Active Directory y gestión de redes LAN/Wi-Fi.
-- **Web:** Mantenimiento y optimización de sitios institucionales con PHP y Drupal.
+### 🎓 Formación Académica
+* **Ingeniería en Sistemas Computacionales (Titulado)** | Universidad Tecnológica Latinoamericana.
+* **Técnico en Programación** | CECYTEM.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alopezcruz-dev&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</p>
-
+### 📬 Conectemos
 <p align="center">
   <a href="mailto:alejandro.pugc@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-007bff?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
