@@ -1,43 +1,58 @@
-# ¡Hola! Soy Alejandro Lopez Cruz 👋
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Role-Backend%20Developer-blue?style=for-the-badge" alt="Role">
-  <img src="https://img.shields.io/badge/Education-Ingeniero%20en%20Sistemas-green?style=for-the-badge" alt="Education">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=200&section=header&text=Alejandro%20Lopez%20Cruz&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Engineer-007bff?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Systems%20Engineer-28a745?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
+
+---
+
 ### 💻 Perfil Profesional
-Ingeniero en Sistemas Computacionales titulado con enfoque en desarrollo backend y sólida trayectoria en soporte técnico de alta escala. Especialista en la resolución de problemas complejos y adaptación a entornos tecnológicos empresariales.
+[cite_start]Ingeniero en Sistemas Computacionales titulado con enfoque en desarrollo backend y sólida trayectoria en soporte técnico de alta escala[cite: 3, 6, 10]. [cite_start]Especialista en la resolución de problemas complejos y optimización de infraestructura tecnológica en instituciones de alto nivel[cite: 8].
 
 ---
 
-### 🛠️ Stack Tecnológico
-| Backend & Bases de Datos | Web & Frontend | Infraestructura y TI |
+### 📊 Developer Stats (Real-time)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=vision-friendly-dark&border_radius=10&langs_count=6" />
+</p>
+
+---
+
+### 🛠️ Stack Tecnológico Pro
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,oracle,php,js,html,css,git,linux,windows,network" />
+  </a>
+</p>
+
+---
+
+### 📂 Trayectoria Profesional
+| Institución | Rol | Periodo |
 | :--- | :--- | :--- |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) | ![Active Directory](https://img.shields.io/badge/Active%20Directory-blue?style=flat&logo=microsoft) |
-| ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat&logo=mysql&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
-| ![REST API](https://img.shields.io/badge/REST%20API-red?style=flat) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) | ![Networks](https://img.shields.io/badge/LAN%2FWiFi-gray?style=flat) |
+| **Tecnológico de Monterrey** | Especialista en Soporte TI | [cite_start]2025 - Actual [cite: 28] |
+| **Universidad Anáhuac México** | Administrador de Atención a Usuarios | [cite_start]2023 - 2024 [cite: 28] |
+| **Universidad Anáhuac México** | Ingeniero en Soporte | [cite_start]2022 - 2023 [cite: 28] |
 
 ---
 
-### 📂 Experiencia Profesional
-* **Especialista en Soporte TI** | Tecnológico de Monterrey (Actual).
-  * Administración de usuarios y políticas mediante Active Directory.
-  * Diagnóstico de infraestructura de red y cableado estructurado.
-* **Administrador de Atención a Usuarios** | Universidad Anáhuac México.
-  * Mantenimiento de sitio institucional en PHP y Drupal.
-* **Ingeniero en Soporte** | Universidad Anáhuac México.
-  * Soporte técnico a usuarios y sistemas institucionales.
-
----
-
-### 🎓 Educación
-* **Ingeniería en Sistemas Computacionales (Titulado)** | Universidad Tecnológica Latinoamericana.
-* **Técnico en Programación** | CECYTEM.
+### ⚡ Habilidades Clave
+- [cite_start]**Backend:** Desarrollo de APIs REST y gestión de bases de datos SQL (MySQL/Oracle)[cite: 7, 16, 17].
+- [cite_start]**Infraestructura:** Administración de políticas mediante Active Directory y gestión de redes LAN/Wi-Fi[cite: 24, 28].
+- [cite_start]**Web:** Mantenimiento y optimización de sitios institucionales con PHP y Drupal[cite: 20, 28].
 
 ---
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <a href="mailto:alejandro.pugc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-alejandro.pugc%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Contact_Me-007bff?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
