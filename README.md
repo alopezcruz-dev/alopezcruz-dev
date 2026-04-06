@@ -1,50 +1,54 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Alejandro%20Lopez%20Cruz&fontSize=70&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=ALEJANDRO%20LOPEZ%20Cruz&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=35&bg=001529" alt="Nombre Animado" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BACKEND%20ARCHITECT-007bff?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/SYSTEMS%20ENGINEER-28a745?style=for-the-badge&logo=disciplines&logoColor=white" />
-  <img src="https://img.shields.io/badge/IT%20SPECIALIST-ffc107?style=for-the-badge&logo=paloaltoredes&logoColor=black" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=28a745&center=true&vCenter=true&width=700&height=40&lines=INGENIERO+EN+SISTEMAS+COMPUTACIONALES;ESPECIALISTA+EN+SOPORTE+TI+%40+TEC+DE+MONTERREY;BACKEND+DEVELOPER+JR-MID" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Perfil Profesional
-Ingeniero en Sistemas Computacionales con una sólida base en el desarrollo de arquitecturas backend y gestión de infraestructura crítica. Mi enfoque principal es la creación de soluciones escalables, la optimización de procesos y la resolución de incidencias en entornos institucionales de alto rendimiento.
+### 💻 Perfil Profesional
+Ingeniero en Sistemas Computacionales titulado con enfoque en desarrollo backend. Cuento con sólida trayectoria en soporte técnico de alta escala, especializándome en la resolución de problemas complejos y optimización de infraestructura en instituciones de alto nivel.
 
 ---
 
 ### 🛠️ Ecosistema Tecnológico
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,oracle,php,js,html,css,git,windows,maven,postman,vscode,eclipse" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,oracle,php,js,html,css,git,,postman,vscode,eclipse" />
   </a>
 </p>
 
 ---
 
-### 📂 Trayectoria Institucional
+
+### 📂 Trayectoria Profesional e Infraestructura
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>🏢 Tecnológico de Monterrey</h4>
-      <p><b>Especialista en Soporte TI</b> (2025 - Actual)</p>
+      <p><b>Especialista en Soporte TI</b> | 2025 - Actual</p>
       <ul>
-        <li>Administración de identidades con Active Directory.</li>
-        <li>Optimización de infraestructura de red y conectividad.</li>
+        <li><b>Gestión de Infraestructura Crítica:</b> Administración avanzada de identidades y objetos mediante <b>Active Directory</b> para asegurar la continuidad operativa.</li>
+        <li><b>Arquitectura de Redes:</b> Diagnóstico y optimización de capas de red, cableado estructurado y conectividad empresarial de alta disponibilidad.</li>
+        <li><b>Consultoría Técnica:</b> Resolución de incidencias de Nivel 2 y 3, garantizando estándares de seguridad institucional.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🏢 Universidad Anáhuac México</h4>
-      <p><b>Administrador de Atención / Ing. Soporte</b> (2022 - 2024)</p>
+      <p><b>Administrador de Atención / Ing. Soporte</b> | 2022 - 2024</p>
       <ul>
-        <li>Desarrollo y mantenimiento web (PHP/Drupal).</li>
-        <li>Gestión de servicios tecnológicos académicos.</li>
+        <li><b>Web Development & CMS:</b> Mantenimiento preventivo y correctivo del portal institucional utilizando <b>PHP</b> y <b>Drupal</b>.</li>
+        <li><b>Full-Stack Support:</b> Gestión integral del ciclo de vida de servicios tecnológicos y publicación de contenido dinámico.</li>
+        <li><b>Optimización de Procesos:</b> Implementación de mejoras en flujos de atención técnica, reduciendo tiempos de respuesta.</li>
       </ul>
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -54,16 +58,8 @@ Ingeniero en Sistemas Computacionales con una sólida base en el desarrollo de a
 
 ---
 
-### 📬 Conectemos
 <p align="center">
   <a href="mailto:alejandro.pugc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
