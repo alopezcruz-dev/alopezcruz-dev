@@ -6,7 +6,7 @@
 </p>
 
 ### 💻 Perfil Profesional
-[cite_start]Ingeniero en Sistemas Computacionales titulado con enfoque en desarrollo backend y sólida trayectoria en soporte técnico de alta escala[cite: 3, 6, 10]. [cite_start]Especialista en la resolución de problemas complejos y adaptación a entornos tecnológicos empresariales[cite: 8].
+Ingeniero en Sistemas Computacionales titulado con enfoque en desarrollo backend y sólida trayectoria en soporte técnico de alta escala. Especialista en la resolución de problemas complejos y adaptación a entornos tecnológicos empresariales.
 
 ---
 
@@ -20,19 +20,19 @@
 ---
 
 ### 📂 Experiencia Profesional
-* **Especialista en Soporte TI** | [cite_start]Tecnológico de Monterrey (Actual).
-  * [cite_start]Administración de usuarios y políticas mediante Active Directory.
-  * [cite_start]Diagnóstico de infraestructura de red y cableado estructurado.
-* **Administrador de Atención a Usuarios** | [cite_start]Universidad Anáhuac México.
-  * [cite_start]Mantenimiento de sitio institucional en PHP y Drupal.
-* **Ingeniero en Soporte** | [cite_start]Universidad Anáhuac México.
-  * [cite_start]Soporte técnico a usuarios y sistemas institucionales.
+* **Especialista en Soporte TI** | Tecnológico de Monterrey (Actual).
+  * Administración de usuarios y políticas mediante Active Directory.
+  * Diagnóstico de infraestructura de red y cableado estructurado.
+* **Administrador de Atención a Usuarios** | Universidad Anáhuac México.
+  * Mantenimiento de sitio institucional en PHP y Drupal.
+* **Ingeniero en Soporte** | Universidad Anáhuac México.
+  * Soporte técnico a usuarios y sistemas institucionales.
 
 ---
 
 ### 🎓 Educación
-* **Ingeniería en Sistemas Computacionales (Titulado)** | [cite_start]Universidad Tecnológica Latinoamericana[cite: 10, 11].
-* **Técnico en Programación** | [cite_start]CECYTEM[cite: 12, 13].
+* **Ingeniería en Sistemas Computacionales (Titulado)** | Universidad Tecnológica Latinoamericana.
+* **Técnico en Programación** | CECYTEM.
 
 ---
 
